@@ -11,3 +11,7 @@ hash = "e27a8ea01478c8c8d2d101ae567b6c708da1b6ff932fb1840922c518f2e918dc8182b4e5
 [update.modrinth]
 mod-id = "DynYZEae"
 version = "fROHV9gC"
+
+[options]
+optional = true
+description = "Renders the HUD at a lower framerate."

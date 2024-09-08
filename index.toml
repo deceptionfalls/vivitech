@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "e6dccf3c2514d922904488e64e6d808484771e9f48c72a275cf5b0c754c54609"
+hash = "aadb7ce7b50fc7c6efb690afacba4775cad1bada65a8d5ddaa339418b015b4fe"
 metafile = true
 
 [[files]]
@@ -351,11 +351,6 @@ hash = "9d41d045cac93146b711ba1e0dcd64c4767bd2c699fded5f181fcb8340d8dfdc"
 metafile = true
 
 [[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "d38f50aad915b4c2f6ee7dfe1a480970def9dd312932504c4f008cbe17988306"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "20fb844701c598c4e24eac283ce0fca4f81f1a7e46e38b49dcbf95bfb575b9f5"
 metafile = true
@@ -377,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "c1a67de25b30a152248043b704c4a47a1521c6012ef64b5b83dd9ad1a8c92dc0"
+hash = "3913ecc71dd6db610d2d39d98e34882cd53b2c463b80640d6d61ddc4b6b453cf"
 metafile = true
 
 [[files]]
@@ -397,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "0f88e46eb7b6487e139e4cf9e75c3b6c2764ffea3a222655798a893399bdfa1a"
+hash = "cbdaac014c4dd9b654b90e7e12b3259bff766818a91f2371ea3909c4dd973714"
 metafile = true
 
 [[files]]
@@ -433,11 +428,6 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "3d41978dc3fd1d7b7eebe51a7c04e49707e7e7c66f764a1bed0cc214e4032995"
-metafile = true
-
-[[files]]
-file = "mods/interiors.pw.toml"
-hash = "b9fa4052f55fb11d52dcd0825cfa1b0341b741b1fe9029fbcc79abede25ccf56"
 metafile = true
 
 [[files]]
@@ -571,11 +561,6 @@ hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
 
 [[files]]
-file = "mods/paxi.pw.toml"
-hash = "58e0dcbd933909735c31a0da3009fc05276b322196026137ef39da9a50525d8d"
-metafile = true
-
-[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "928bf3b5a539040abe2a060291b1c23c0b65250ef5b144b0ea9049c39f9f54dc"
 metafile = true
@@ -612,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
-hash = "964da9ed4bdd490258a05d249e13b8d90d82f71591c793bc93e29840e4e9fe1b"
+hash = "ba25861cc498bca465a3a4449183985cf8bcc64879655dc5baff5577061daca4"
 metafile = true
 
 [[files]]
@@ -632,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-swapping.pw.toml"
-hash = "1ede923bd8d121599c945ecd7aae1f72db0ced06659e559c38830e4d39390a8a"
+hash = "73e1efd0943f4b71b5ccaffb28ee406eedbad702cf7dbc0d6fce8f6ba6ce03ce"
 metafile = true
 
 [[files]]
@@ -687,12 +672,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "01086a504d6c5a1d4e4983a4f047bf675725583d40531f5b6972f11f4ff98de0"
+hash = "7213046f5bb2238c0c6bd0109f26b52c18a2b51ef098d28e4cc5425b19d251de"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "312852f091ce9b76fed7ec9d55dbff8b692cceac8a4d0c907cf12d9d7769487f"
+hash = "864830aa7a8d61aaf60659a09ea926ec59998796f38a3cca7022fa11444eaae7"
 metafile = true
 
 [[files]]
