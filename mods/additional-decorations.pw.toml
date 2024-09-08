@@ -1,0 +1,13 @@
+name = "Additional Decorations"
+filename = "additionaldecorations-1.1.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dV37I6TU/versions/ILWcPBfK/additionaldecorations-1.1.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "782c8456020d6f770a1332a2f3fa1c3ae91147e47d6148d44173c4344ca086e6dc3315aaed3a432c1ac9703022ffb5f1791e7c8d99ce1a358aa4c6efd64ae57f"
+
+[update]
+[update.modrinth]
+mod-id = "dV37I6TU"
+version = "ILWcPBfK"

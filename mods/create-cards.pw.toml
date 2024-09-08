@@ -1,0 +1,13 @@
+name = "Create: Cards"
+filename = "create-cards-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/j0r8PcZb/versions/VQabMlYm/create-cards-1.2.jar"
+hash-format = "sha512"
+hash = "94d4163dd1d7e663da34880150cd6e80666d4b744fc264e923c6a75b93cb3293229e419c7b0f9b1215e6b12384fbb3e05ab618335e36c79726eceb01e76dfe7e"
+
+[update]
+[update.modrinth]
+mod-id = "j0r8PcZb"
+version = "VQabMlYm"
