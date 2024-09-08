@@ -12,5 +12,5 @@ hash = "5f15e58c60dc9428e19010bbf2d2104ecdcc059eba9ca1d5849be86222938060838f4b9a
 mod-id = "NcUtCpym"
 version = "gJ5N7s4J"
 
-[options]
+[option]
 optional = true

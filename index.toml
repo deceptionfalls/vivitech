@@ -76,11 +76,6 @@ hash = "c1da6eb6df3e29f5bb39356595633314fbc1eefd46828422c218857f9045f97a"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
-hash = "b1581bbfae9d16690f4022536da6567f000130c4ea5e04d92177c1bc61fea709"
-metafile = true
-
-[[files]]
 file = "mods/cicada.pw.toml"
 hash = "5704d8e8d0c5d8e840c2fbd0da3759a18b7a8d47985ac77ca30aa65913b15339"
 metafile = true
@@ -261,11 +256,6 @@ hash = "1e4682a6a43156f149bdf2b0187b78fa2bd9ac201d4544c62942368e4954b038"
 metafile = true
 
 [[files]]
-file = "mods/double-doors.pw.toml"
-hash = "534bc7a9ce2118f2e397d1ccb3158733dfff85ed1c8c98136d548eac531c32c7"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "04e11f2a8e941efc14ee29244589276318a60ae32dfdde3b1ec1272d4aa76cb0"
 metafile = true
@@ -367,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "3913ecc71dd6db610d2d39d98e34882cd53b2c463b80640d6d61ddc4b6b453cf"
+hash = "6b4c099c3f2ecb16b4ae574281e8429884d283be6db9838fc8712ebc6dbdc3d5"
 metafile = true
 
 [[files]]
@@ -537,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
+hash = "c48e6562545f05b741b85b8b70ab36371b046109bde0e36d0a16b9865b7ff2cd"
 metafile = true
 
 [[files]]
@@ -592,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
-hash = "ba25861cc498bca465a3a4449183985cf8bcc64879655dc5baff5577061daca4"
+hash = "bea0c433b27e172f97224b346a00390d551ab630d0515eae5064954692af67a8"
 metafile = true
 
 [[files]]
@@ -612,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-swapping.pw.toml"
-hash = "73e1efd0943f4b71b5ccaffb28ee406eedbad702cf7dbc0d6fce8f6ba6ce03ce"
+hash = "c27c82b2ad94f115934d5052c2b0d173484747c109a141c0ea1cf2d495a38c7b"
 metafile = true
 
 [[files]]
@@ -667,12 +657,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "7213046f5bb2238c0c6bd0109f26b52c18a2b51ef098d28e4cc5425b19d251de"
+hash = "b7d37e03150950f7215a795fb28be57f37493607bd50cc21181a30885cd5b533"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "864830aa7a8d61aaf60659a09ea926ec59998796f38a3cca7022fa11444eaae7"
+hash = "fe529d7acd491f477726f0854abbf465ac0425161c6176b5f824319f1d08ae3b"
 metafile = true
 
 [[files]]
