@@ -661,11 +661,6 @@ hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "f26fb3886f4c53b3284264cacfebb4bfe68a189205363e8e406896c847c1e0ea"
-metafile = true
-
-[[files]]
 file = "mods/time-control.pw.toml"
 hash = "c36630b07794f11c6c728a6106ad2d9d42d8f2c3f1e9d80941272af61e6cafb9"
 metafile = true
@@ -683,6 +678,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "c95bcf2a24250de6b9abceb73777a4e1e3f2c5af157176c371f6ed84d067b987"
 metafile = true
 
 [[files]]
