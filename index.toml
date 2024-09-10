@@ -561,6 +561,11 @@ hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "58e0dcbd933909735c31a0da3009fc05276b322196026137ef39da9a50525d8d"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "928bf3b5a539040abe2a060291b1c23c0b65250ef5b144b0ea9049c39f9f54dc"
 metafile = true
