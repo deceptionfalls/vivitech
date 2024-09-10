@@ -46,6 +46,11 @@ hash = "bee459c3b3739a46717f04675ba175d8a5d26fc00a8683acd4ef5bdfb73a9066"
 metafile = true
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "54f8ff0186427c2e3c1e708b8f8c31787fcdd21fce8d76a7f9795ffc76201c16"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "0b5feeae74fe992084ec5cb12eab3404ddd5054e85c9006f7ba4d65f209de13f"
 metafile = true
@@ -413,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "50c6faa614dd688541639cca775e7fe9355020c6fe3c3df0998e360039a2038f"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "6be93f455efbd6e3a93260ba84c7b35f90ab4f2d0d1653d54c404e924ec3f960"
 metafile = true
 
 [[files]]
