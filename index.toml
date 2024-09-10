@@ -406,6 +406,11 @@ hash = "9d01b15947083410d7978e231f4abd836525d3aa180f22061c271fed678539b8"
 metafile = true
 
 [[files]]
+file = "mods/ibo.pw.toml"
+hash = "89b9fe05d2084a0af7df67ec6f69b13dcc048d79a960d679402d9d224504019c"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "8448edb1ac227ae3c264abbe50e2744f8b75fc2e34abe16c234caf21ca031970"
 metafile = true
@@ -413,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "50c6faa614dd688541639cca775e7fe9355020c6fe3c3df0998e360039a2038f"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "67b0b2bd471fc2393c7c8e95cae5ae6031e621d11f5e253c07a4427857f1a2bd"
 metafile = true
 
 [[files]]
@@ -543,6 +553,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "af529de63ded2380d5526caa7151709869561a273d9845ed51b3fc7fca2f6a63"
 metafile = true
 
 [[files]]
