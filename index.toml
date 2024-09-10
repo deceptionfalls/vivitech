@@ -406,11 +406,6 @@ hash = "9d01b15947083410d7978e231f4abd836525d3aa180f22061c271fed678539b8"
 metafile = true
 
 [[files]]
-file = "mods/ibo.pw.toml"
-hash = "89b9fe05d2084a0af7df67ec6f69b13dcc048d79a960d679402d9d224504019c"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "8448edb1ac227ae3c264abbe50e2744f8b75fc2e34abe16c234caf21ca031970"
 metafile = true
