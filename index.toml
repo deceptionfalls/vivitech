@@ -316,6 +316,11 @@ hash = "49f7a553eb7bd1c0be5b488276b8c12ae0b3bed828e3605ad238295f00190916"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "21bdbce23d3cef1dca238e5797f4b87b1e3eb44c8c213e51cd73c51bf55cdced"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "6825690eefa5d0ab6e5e313c1d61ec7894f4debfa8aba4c412ec8e60eeb68c74"
 metafile = true
@@ -378,11 +383,6 @@ metafile = true
 [[files]]
 file = "mods/fxnt-bitsnbobs.pw.toml"
 hash = "bf0bcb8e22400c206e8476dafa567f5582ae6bbefca12935f53737dcd040d4b5"
-metafile = true
-
-[[files]]
-file = "mods/fxnt-create-storage.pw.toml"
-hash = "35c71e20d7f3492c1d3a81050db4ed2c6c9b372c588f9ada003bf1e2b119dfbe"
 metafile = true
 
 [[files]]
