@@ -322,6 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
+hash = "b7aa87adf63c70758121c105a53ad38d7611784cb66911c9beb705495a3e21dd"
 metafile = true
 
 [[files]]
@@ -426,6 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/hephaestus.pw.toml"
+hash = "91c9f826f91a79126962578e39284f763b681e7d2dd50dd83d2323c3ef5f9c17"
 metafile = true
 
 [[files]]
@@ -696,11 +698,6 @@ metafile = true
 [[files]]
 file = "mods/time-control.pw.toml"
 hash = "c36630b07794f11c6c728a6106ad2d9d42d8f2c3f1e9d80941272af61e6cafb9"
-metafile = true
-
-[[files]]
-file = "mods/tinkerers-smithing.pw.toml"
-hash = "a67428b929aff24f6ae728600ee7d5f1ab814d7e3e362e16b59660c48151d50b"
 metafile = true
 
 [[files]]
