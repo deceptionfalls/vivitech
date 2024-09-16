@@ -396,6 +396,11 @@ hash = "b5101554156ef1298ba8e68cc2dfbc6e05723b0fb6226081593a129e85a347a5"
 metafile = true
 
 [[files]]
+file = "mods/golden-age-combat.pw.toml"
+hash = "07a4008991419f808a2c591ae3b64f4b316d2e16e74ba110f0e4bf540527bb77"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "f6629a3c5e023a96cb5d78d66e93b47245996c46a079921b3f6a6094209dc1b0"
 metafile = true
