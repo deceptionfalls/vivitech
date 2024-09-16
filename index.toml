@@ -321,6 +321,10 @@ hash = "aadb7ce7b50fc7c6efb690afacba4775cad1bada65a8d5ddaa339418b015b4fe"
 metafile = true
 
 [[files]]
+file = "mods/exposure.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/extended-cogwheels.pw.toml"
 hash = "49f7a553eb7bd1c0be5b488276b8c12ae0b3bed828e3605ad238295f00190916"
 metafile = true
