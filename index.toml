@@ -116,6 +116,11 @@ hash = "b4fdf52d53ab71bf73282c5168e9526b6024740d82388d604d6947394e3c7f7f"
 metafile = true
 
 [[files]]
+file = "mods/construction-wand-fabric.pw.toml"
+hash = "24696ad538f8a628e21bb3e48eb7f2baa9e284b3c632e2b45544623984ce4f5b"
+metafile = true
+
+[[files]]
 file = "mods/continents.pw.toml"
 hash = "c99c8c5c158acd28b63f816778c854f1092f53c0c850f575ba48eee11cbce908"
 metafile = true
@@ -693,11 +698,6 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
 hash = "28285c1930d3715846802d20b5aaf18a6fba094cc37519c83ec498727712a008"
-metafile = true
-
-[[files]]
-file = "mods/spelunkery.pw.toml"
-hash = "2f71737c94d8f03da1a00bd6bbbd0a9ddf190d2b9d065a3b7c3867e1b5f3fef6"
 metafile = true
 
 [[files]]
