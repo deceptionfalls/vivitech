@@ -736,6 +736,16 @@ hash = "0d9cc245eda2446b891b435fb2b7fb8d9dab6e8e55bfb07a21bb89ba3518be67"
 metafile = true
 
 [[files]]
+file = "mods/when-dungeons-arise-seven-seas.pw.toml"
+hash = "85c1cbf795196996dbe063f1b22ba15d4a2962af613c4403c4793cd98c4d40d2"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "a4f596b65b72b0c718e35cfb2e1a36e1887438b44a39daeec75a1c725a0441c4"
+metafile = true
+
+[[files]]
 file = "mods/wwoo.pw.toml"
 hash = "ca5bfe1a7a7bd7d60d488281bb4dab2f0297f181a1480acc0ca6643934c9dab9"
 metafile = true
