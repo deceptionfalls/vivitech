@@ -1,3 +1,4 @@
+# Vivitech
 Personal Minecraft 1.20.1 Fabric modpack focused around Create, automation and building. It's tailored around my own tastes and my own personal way of playing Minecraft so keep that in mind. Mod suggestions are appreciated but I don't guarantee anything will be added.
 
 This modpack was made and is maintained using [Packwiz](https://github.com/packwiz/packwiz) and it's recommended to play it using [Prism Launcher](https://prismlauncher.org/).
@@ -10,7 +11,6 @@ This modpack was made and is maintained using [Packwiz](https://github.com/packw
 - **Worldgen**: World generation is important because it can dictate how you approach certain builds. So I added William Wythers's Overhauled Overworld to build upon the vanilla biomes and make them look significantly better. Then we have Tectonic to make terrain look more realistic and more fun to traverse, and finally we have Continents to make big pieces of land more separated, encouraging exploration and finding out the perfect spot to build on.
 - **Structures**: We got Towns and Towers to spice up villages. I plan to add When Dungeons Arise to add some airships and fun places to look for. Finally we have Create Structures to add some extra spice.
 - **Longer Days and Nights**: Timecontrol makes days and nights last long and make it so you need to worry a bit less about Phantoms.
-gg
 - **Food**: Farmer's Delight and some of it's addons alongside with Create Food makes it so automating food is actually a rabbit hole that you can delve into and hey there's like a ton of yummy food to consume.
 - **Building is Crucial**: This pack has a ton of utilities and additions to make building more fun, like Chipped for block variants, the Macaw's series for assorted additions, Construction Wand for placing blocks en masse easier, Trowel for placing random blocks, Beautify and Handcrafted for awesome decorations, aside from Create addons that focus on decoration so you can build the perfect base.
 
