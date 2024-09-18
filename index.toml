@@ -21,6 +21,11 @@ hash = "63a95f3c99622cfe0b9dba564c0209eb0b24beabfa6508a3555ff1cc48b6c5d8"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "d71ef35e3ebe2f41c22fbc06f62f73050e44f7f2bf3c7ebd9a5db9450bd79993"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "f53692469637eda8ca8e113738fc02e4a08a2093781da80c96c8fdf0671b65b2"
 metafile = true
@@ -466,6 +471,11 @@ hash = "373ec22dd58dde230d1790429ab57eabe5cde34bdf4ee8121ffc1d5e9cd1a2f2"
 metafile = true
 
 [[files]]
+file = "mods/ironchests.pw.toml"
+hash = "fc3a2ab77cbe31040c59d1ba8cbd5283a9e6d2603ccf64784bd33205d4da81f1"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "c7814771fb151ba0f3f3722e2b3008d52b7f2429d5add8c93c00c2c7f5792d59"
 metafile = true
@@ -686,8 +696,23 @@ hash = "28285c1930d3715846802d20b5aaf18a6fba094cc37519c83ec498727712a008"
 metafile = true
 
 [[files]]
+file = "mods/spelunkery.pw.toml"
+hash = "2f71737c94d8f03da1a00bd6bbbd0a9ddf190d2b9d065a3b7c3867e1b5f3fef6"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "8c8ff7793de210cbe8f481341cd4c9c97d5b26117bd8ad368c8e5cfb80c1f082"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "4ca11e8b2f08020232bce98e6329e0831b95c9f4be962126ab865aee503a9724"
 metafile = true
 
 [[files]]
@@ -706,8 +731,8 @@ hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
 
 [[files]]
-file = "mods/vein-mining.pw.toml"
-hash = "c95bcf2a24250de6b9abceb73777a4e1e3f2c5af157176c371f6ed84d067b987"
+file = "mods/trowel.pw.toml"
+hash = "0d9cc245eda2446b891b435fb2b7fb8d9dab6e8e55bfb07a21bb89ba3518be67"
 metafile = true
 
 [[files]]
