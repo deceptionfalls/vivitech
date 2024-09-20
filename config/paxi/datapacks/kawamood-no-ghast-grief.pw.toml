@@ -1,0 +1,13 @@
+name = "No Ghast Grief"
+filename = "PK_No_Ghast_Grief_MC_1.20_to_1.20.4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x4vSQ0E8/versions/knVfVBnV/PK_No_Ghast_Grief_MC_1.20_to_1.20.4.zip"
+hash-format = "sha512"
+hash = "6965d85d5b2929277859c58dcf2df9f88cb791f81644dba2a9103ed51b34905af2ac5383488d36b739f9bb85f6b48b79c3c76eccc434270e3ddfa5e067ee028a"
+
+[update]
+[update.modrinth]
+mod-id = "x4vSQ0E8"
+version = "knVfVBnV"

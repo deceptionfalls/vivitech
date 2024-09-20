@@ -1,0 +1,13 @@
+name = "RAY's 3D Rails"
+filename = "§9RAY's§r 3D Rails.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jKa9Ievs/versions/YPaX6qwi/%C2%A79RAY%27s%C2%A7r%203D%20Rails.zip"
+hash-format = "sha512"
+hash = "6bdc9d461fadcc4b339df1bfbd0e1b9967f40b0d11313cd6f51940d7a1a15b8180cc0f7c035769e4eb03efecd177ad73ae39ae95a7d1ec3cd24fe895803a4983"
+
+[update]
+[update.modrinth]
+mod-id = "jKa9Ievs"
+version = "YPaX6qwi"

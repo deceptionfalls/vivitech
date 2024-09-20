@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/paxi/datapacks/cliffs-and-coves.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/kawamood-no-ghast-grief.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/navigable-rivers.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/no-griefing-creepers.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/additional-decorations.pw.toml"
 hash = "e875c696250db179cf3aa57b2007b648304c9990f18ce88c7cf668e597cc9e2d"
 metafile = true
@@ -123,6 +139,10 @@ metafile = true
 [[files]]
 file = "mods/continents.pw.toml"
 hash = "c99c8c5c158acd28b63f816778c854f1092f53c0c850f575ba48eee11cbce908"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
 metafile = true
 
 [[files]]
@@ -278,6 +298,18 @@ metafile = true
 [[files]]
 file = "mods/delightful-creators-fabric.pw.toml"
 hash = "03f632e9f51e58ce8b8ce7c5b28166e251e1cdbc743f404f65712fd46dd0f251"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-walls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-windows.pw.toml"
 metafile = true
 
 [[files]]
@@ -476,6 +508,10 @@ hash = "fc3a2ab77cbe31040c59d1ba8cbd5283a9e6d2603ccf64784bd33205d4da81f1"
 metafile = true
 
 [[files]]
+file = "mods/isometric-renders.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "c7814771fb151ba0f3f3722e2b3008d52b7f2429d5add8c93c00c2c7f5792d59"
 metafile = true
@@ -588,6 +624,10 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "3f678c4ade25a4b4b54aacf25db155658c1ec605bbeaf0ea6b8ed5d0dbc062e1"
+metafile = true
+
+[[files]]
+file = "mods/no-enderman-grief.pw.toml"
 metafile = true
 
 [[files]]
@@ -768,4 +808,28 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "e1df2605a71225d8a49dc83cd6bd5cb404284f52a8be0e2cc50f4e8809375df4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-energistics.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-new-age-retexture.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ctm-create.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/lopys-creates-copper-coating.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-ladders.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-rails.pw.toml"
 metafile = true

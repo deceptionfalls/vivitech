@@ -1,0 +1,13 @@
+name = "Create Energistics"
+filename = "Create-Energistics-1.1.1-mc1.20.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2XNqF3Y2/versions/XS3DIq4U/Create-Energistics-1.1.1-mc1.20.1.zip"
+hash-format = "sha512"
+hash = "e62d12541fc6364397693df1d9200efb7d68328ec74566424ad0cc55b0e8ed58b981e8170b6957f0e70d07a933ffed65e5a9f8c0e9e2f06d327d1f96c39126cd"
+
+[update]
+[update.modrinth]
+mod-id = "2XNqF3Y2"
+version = "XS3DIq4U"

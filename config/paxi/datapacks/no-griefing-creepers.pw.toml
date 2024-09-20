@@ -1,0 +1,13 @@
+name = "No griefing, creepers!"
+filename = "No griefing, creepers! r1.1-MC1.20.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1L5uz1JL/versions/g1jWbz53/No%20griefing%2C%20creepers%21%20r1.1-MC1.20.zip"
+hash-format = "sha512"
+hash = "4a57d1a143d396b4a5e509f233400feb61c23913397f136ee41aec01d2c409e8c483341c720a767d8bfbfb0e026debfd79d3c90c1409347869683cb37718049d"
+
+[update]
+[update.modrinth]
+mod-id = "1L5uz1JL"
+version = "g1jWbz53"
