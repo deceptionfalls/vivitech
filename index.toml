@@ -786,6 +786,10 @@ hash = "0d9cc245eda2446b891b435fb2b7fb8d9dab6e8e55bfb07a21bb89ba3518be67"
 metafile = true
 
 [[files]]
+file = "mods/uncraftables.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/when-dungeons-arise-seven-seas.pw.toml"
 hash = "85c1cbf795196996dbe063f1b22ba15d4a2962af613c4403c4793cd98c4d40d2"
 metafile = true

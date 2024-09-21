@@ -1,0 +1,13 @@
+name = "Uncraftables"
+filename = "uncraftables-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bGH7Ep2V/versions/mXD11PiT/uncraftables-1.1.0.jar"
+hash-format = "sha512"
+hash = "88d5565cf8b141bb5938a688e07e54769281b5752173833ff103de2596d3489335a53ef6d5f7b9d7ce83614272b584d48db49bf23890e350cba48d149a49e95b"
+
+[update]
+[update.modrinth]
+mod-id = "bGH7Ep2V"
+version = "mXD11PiT"
