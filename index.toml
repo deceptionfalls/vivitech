@@ -2,18 +2,22 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/datapacks/cliffs-and-coves.pw.toml"
+hash = "f8a8b0fd66606092648267d213035e420d7444ca85fabff5950048a157d3ffe4"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/kawamood-no-ghast-grief.pw.toml"
+hash = "2bfd97bc57598256889e4ecb6456b4e8e725569ceb6a686a9f65a56f42f32d87"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/navigable-rivers.pw.toml"
+hash = "11529b2e00d0efe2ce84aa2b5235449634d14ae60e925aed56b1dd6c976c173e"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/no-griefing-creepers.pw.toml"
+hash = "2d0b81358bae64c5fa11878b6e27b406486001136e5d5cd84eb905b8bb0f602e"
 metafile = true
 
 [[files]]
@@ -143,6 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
+hash = "14a5af2b7faa6df33e76e7b704eaa398d78a6026c5c996bc5ea13ae02e5d6b74"
 metafile = true
 
 [[files]]
@@ -302,14 +307,17 @@ metafile = true
 
 [[files]]
 file = "mods/diagonal-fences.pw.toml"
+hash = "1786d4fc2ad31e32c1f6e413b05756363296fc5519643dbe91bd8460d53ebdcf"
 metafile = true
 
 [[files]]
 file = "mods/diagonal-walls.pw.toml"
+hash = "e7464b6d28e0073f8d2245ebfd20b0cd1655753f586165cbbcfd0a9f4c05eb93"
 metafile = true
 
 [[files]]
 file = "mods/diagonal-windows.pw.toml"
+hash = "390f424bc8631345205de7d3535874ebd8e46eae0879de7e541194dc5b68a26d"
 metafile = true
 
 [[files]]
@@ -448,6 +456,11 @@ hash = "b5101554156ef1298ba8e68cc2dfbc6e05723b0fb6226081593a129e85a347a5"
 metafile = true
 
 [[files]]
+file = "mods/geophilic.pw.toml"
+hash = "98673a25d63cfb9475c2a20f479bcd66cdc11fe9b6d1e7af7eef625799cd8c29"
+metafile = true
+
+[[files]]
 file = "mods/golden-age-combat.pw.toml"
 hash = "07a4008991419f808a2c591ae3b64f4b316d2e16e74ba110f0e4bf540527bb77"
 metafile = true
@@ -499,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-sorting.pw.toml"
-hash = "373ec22dd58dde230d1790429ab57eabe5cde34bdf4ee8121ffc1d5e9cd1a2f2"
+hash = "b5661c408bd1b00cdfff31a4e02133d09c6da01bc47bec347313be4f614b269b"
 metafile = true
 
 [[files]]
@@ -509,6 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/isometric-renders.pw.toml"
+hash = "df0c34bc7606eaf4357dcc9828d8c77e1b03026e502932a3b8f0d87aec55c018"
 metafile = true
 
 [[files]]
@@ -528,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "37421d14755957856ddafed04020b2b23f902f6f4c410fb5bdfc956959f99fba"
+hash = "f20b40399c36c6189c7436923eb814890c508a34d955cfd045b3ad5df6f9a315"
 metafile = true
 
 [[files]]
@@ -628,6 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-enderman-grief.pw.toml"
+hash = "0272a323c4c72b52a805d248fefbb77326191333955cd399effbc0373026fc03"
 metafile = true
 
 [[files]]
@@ -812,24 +827,30 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/create-energistics.pw.toml"
+hash = "e1e72bf52ed7f93c6bff3af055c8275ba1b0816ef0a0f2e95d65085947a07d7b"
 metafile = true
 
 [[files]]
 file = "resourcepacks/create-new-age-retexture.pw.toml"
+hash = "3057c06edeb5eab2092aeab1abc0c123b9f37bad6656f6feaefe0508b5710116"
 metafile = true
 
 [[files]]
 file = "resourcepacks/ctm-create.pw.toml"
+hash = "fce1166a7a174f3b1b7daee1d772f5680bc8253240df09a107f4815c422cecb6"
 metafile = true
 
 [[files]]
 file = "resourcepacks/lopys-creates-copper-coating.pw.toml"
+hash = "8398f3ce15c7069bf7d84842fc541c86c2819dfa626ad2ef0f9cf0d4cef081f6"
 metafile = true
 
 [[files]]
 file = "resourcepacks/rays-3d-ladders.pw.toml"
+hash = "148e1bff81286680174b3594d216c7edddc2bd5f1cef93ac26a0fcf9522b5850"
 metafile = true
 
 [[files]]
 file = "resourcepacks/rays-3d-rails.pw.toml"
+hash = "c5a10a9b234f2400937749f7379080bfccb9742cfb7a7bc36b9e78d5c77e5bb9"
 metafile = true
