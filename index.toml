@@ -787,6 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/uncraftables.pw.toml"
+hash = "edcd399c42b10f4d1466758a333f49ff6c3d84e9783d3218c1e0736cabdfe33d"
 metafile = true
 
 [[files]]
