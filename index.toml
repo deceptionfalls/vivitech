@@ -66,6 +66,11 @@ hash = "66972afb7cfed3f736873f00c3178c7c55b995ea8a5edb96327a9b71bc3f7d42"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "23acea5043b043f4307ee1ce9d3738340ee72e5d3915322d7cee40403265f41b"
+metafile = true
+
+[[files]]
 file = "mods/beautify-refabricated.pw.toml"
 hash = "724353a7730f54b29378ba8e374c78372c8a8f072e578b5758b11fc150f470b7"
 metafile = true
@@ -123,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "15385164e2cd07cce7493a10d6d87df5c7bce587a866613126be3b54b6b28fc7"
+metafile = true
+
+[[files]]
+file = "mods/cluttered.pw.toml"
+hash = "68eefbd9e12efa83e4f8bc890c9b8752107a7ce3942ad1cdabe25e4b749ed290"
 metafile = true
 
 [[files]]
@@ -436,11 +446,6 @@ hash = "6b4c099c3f2ecb16b4ae574281e8429884d283be6db9838fc8712ebc6dbdc3d5"
 metafile = true
 
 [[files]]
-file = "mods/fwaystones.pw.toml"
-hash = "8a1832e5352f6ea6307b9af759034ac9a9b654823120cc8181f7f36171d7c24f"
-metafile = true
-
-[[files]]
 file = "mods/fxnt-bitsnbobs.pw.toml"
 hash = "bf0bcb8e22400c206e8476dafa567f5582ae6bbefca12935f53737dcd040d4b5"
 metafile = true
@@ -528,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "c7814771fb151ba0f3f3722e2b3008d52b7f2429d5add8c93c00c2c7f5792d59"
+metafile = true
+
+[[files]]
+file = "mods/just-outdoor-stuffs.pw.toml"
+hash = "30a50082008326b715feebf94b19163f3e7a231fa6a32e8b054815e4d23c0f94"
 metafile = true
 
 [[files]]
@@ -636,6 +646,11 @@ hash = "c48e6562545f05b741b85b8b70ab36371b046109bde0e36d0a16b9865b7ff2cd"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "574adc5adf7cfd7213999810af13437390227063a902d41656071fb55a347a3d"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "3f678c4ade25a4b4b54aacf25db155658c1ec605bbeaf0ea6b8ed5d0dbc062e1"
 metafile = true
@@ -721,6 +736,11 @@ hash = "d830988445f996067ab8a0d808a3515fbdb219313167824420d28ced2d062405"
 metafile = true
 
 [[files]]
+file = "mods/simple-trashcan.pw.toml"
+hash = "755cc6bd2f4a74489f1d3b2c1969df71073c16dcbe08389332532d4d59e24890"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "9697452898b931432fce197542bf47134f25a9105d0b4c01705bec1aaaed145c"
 metafile = true
@@ -751,8 +771,18 @@ hash = "28285c1930d3715846802d20b5aaf18a6fba094cc37519c83ec498727712a008"
 metafile = true
 
 [[files]]
+file = "mods/sound.pw.toml"
+hash = "f8600e694c164b04b77b6774ec14603beadb2fb1e41a0b0f84eb25a40d673d4e"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "141cdd7d3bdbfb67bb1571c89a41018150caee637c03c464e4f2608a88a9af4a"
 metafile = true
 
 [[files]]
@@ -776,6 +806,11 @@ hash = "72c0e1d4d8eb05e6c82c8959885ee5f08b8c7ede63b438e22a7422246679cc46"
 metafile = true
 
 [[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "179b326687b34c0dde9370aedc47a7cdf5115483c2287df73c96b5380e31148e"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
@@ -791,6 +826,16 @@ hash = "edcd399c42b10f4d1466758a333f49ff6c3d84e9783d3218c1e0736cabdfe33d"
 metafile = true
 
 [[files]]
+file = "mods/way2wayfabric.pw.toml"
+hash = "9630ec247ab11b0b5aa97de51e1fe7110bd9dd357ef9c597d0a88408866aae81"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "f3b842bc7de06b5449f7b12123a9009b24097c2e1d8951188a5d418ea1471d0f"
+metafile = true
+
+[[files]]
 file = "mods/when-dungeons-arise-seven-seas.pw.toml"
 hash = "85c1cbf795196996dbe063f1b22ba15d4a2962af613c4403c4793cd98c4d40d2"
 metafile = true
@@ -798,6 +843,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "a4f596b65b72b0c718e35cfb2e1a36e1887438b44a39daeec75a1c725a0441c4"
+metafile = true
+
+[[files]]
+file = "mods/windchimes.pw.toml"
+hash = "7ef1612adfce02572d20a2a9682f35ff4f2b2da50fa7645b8c73a46c108b12a9"
 metafile = true
 
 [[files]]
@@ -823,6 +873,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "4d0c5a4bfb516e886803194c72e59d2c0b8be576e617dd71f364c80c8a01a6b5"
+metafile = true
+
+[[files]]
+file = "mods/yuushya-townscape.pw.toml"
+hash = "99fd30639097a1f78b72ce68d76a8884a5885bbda6f27f5718e754579c211695"
 metafile = true
 
 [[files]]
