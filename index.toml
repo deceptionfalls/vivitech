@@ -46,6 +46,11 @@ hash = "d71ef35e3ebe2f41c22fbc06f62f73050e44f7f2bf3c7ebd9a5db9450bd79993"
 metafile = true
 
 [[files]]
+file = "mods/antighost.pw.toml"
+hash = "23d40478504755df0f798dc78cb69f1023568d94a6e1343e47de922782c4f3b6"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "f53692469637eda8ca8e113738fc02e4a08a2093781da80c96c8fdf0671b65b2"
 metafile = true
@@ -416,6 +421,11 @@ hash = "9d41d045cac93146b711ba1e0dcd64c4767bd2c699fded5f181fcb8340d8dfdc"
 metafile = true
 
 [[files]]
+file = "mods/fadeless.pw.toml"
+hash = "d987a241a56c9e3fde315ca942c8240911b51c98d7d5bd1f089c25ddb8b6cca1"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "14e141719b2166b70fc329f620bea34892696f8677127f7181ba2533519e8c56"
 metafile = true
@@ -483,6 +493,11 @@ metafile = true
 [[files]]
 file = "mods/hide-experimental-warning.pw.toml"
 hash = "005920cd18ea09c63df60a2007852c1791d9af4b19d74a5e5e9cff5f14461ec4"
+metafile = true
+
+[[files]]
+file = "mods/hold-that-chunk.pw.toml"
+hash = "7ef9c53b1aef83f742cbe52a7a5e0419c37834a685d2b73ebe0963a98896b4fc"
 metafile = true
 
 [[files]]
@@ -696,6 +711,11 @@ hash = "50c3264db098f9d4390d21508ab2f6b21a68a2b52eda373d0205569387cdb329"
 metafile = true
 
 [[files]]
+file = "mods/puzzle.pw.toml"
+hash = "222ba96b4e6072eaf6cc9f0efaaebb6a166ee773897228ebb7513a804e932581"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "d6b5089f96a7e76b3d968eadbb604f34316af639322e188cd8b6da4208e89bbc"
 metafile = true
@@ -868,6 +888,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "c32210e2e879228fcf4b9b7c459076db36b0ab0c06008919921676dd3208b882"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
